@@ -1,0 +1,17 @@
+body {
+/*background-color: grey;*/
+font-family: 'Swanky and Moo Moo', cursive;
+background-image: url("Images/cool background 4.png")
+}
+p {
+  color: black;
+}
+li {
+  color: grey;
+}
+img {
+  width: 300px;
+  margin: 20px;
+  border: 5px solid black;
+  padding: 20px;
+}
